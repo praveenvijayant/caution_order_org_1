@@ -1,0 +1,20 @@
+[
+  {
+    "start_km": "354/9",
+    "end_km": "355/2",
+    "speed_limit": "60",
+    "reason": "Track maintenance"
+  },
+  {
+    "start_km": "356/5",
+    "end_km": "357/0",
+    "speed_limit": "30",
+    "reason": "Bridge under repair"
+  },
+  {
+    "start_km": "358/3",
+    "end_km": "359/1",
+    "speed_limit": "50",
+    "reason": "Signal work"
+  }
+]

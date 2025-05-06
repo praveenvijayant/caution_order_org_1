@@ -1,0 +1,20 @@
+name: railway_caution_viewer
+description: A Flutter app to view railway caution orders live.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.7.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  geolocator: ^14.0.0
+  google_maps_flutter: ^2.5.3
+  flutter_svg: ^2.0.7
+  cupertino_icons: ^1.0.2
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/railway_line.geojson
+    - assets/caution_orders.json
